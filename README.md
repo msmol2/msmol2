@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on My next Data Science Master Thesis Project
-- 🌱 I’m currently learning Data Mining and CrossValidation of different OMICs and or EEG data
+- 🌱 I’m currently learning Data Mining and CrossValidation of different OMICs
 - 👯 I’m looking to collaborate on Neuroscience or Immunology related Projects
-- 🤔 I’m looking for help with Machine Learning in Cognitive Science
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Ski Teacher
 
