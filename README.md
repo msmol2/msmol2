@@ -16,7 +16,7 @@ My background is in the lab, first in neuroscience (in vivo electrophysiology sy
 | [**repeat-expansions-trgt**](https://github.com/msmol2/repeat-expansions-trgt) | Detects and visualises pathogenic tandem repeat expansions (fragile X, Huntington, Friedreich ataxia, …) in PacBio PureTarget long-read data, including methylation and repeat interruptions | TRGT, Stranger, samtools, bcftools, bash |
 | [**lipid-structure-annotation**](https://github.com/msmol2/lipid-structure-annotation) | Turns LC-MS lipid annotations into molecular structures (SMILES) and validates them against reported masses and with RDKit | Python, RDKit |
 | [**genomics-transcriptomics-analyses**](https://github.com/msmol2/genomics-transcriptomics-analyses) | Genome assembly and Burrows–Wheeler algorithms from scratch, and a single-cell RNA-seq workflow with batch integration and cell-type annotation | Python, scanpy, scvi-tools, CellTypist |
-| [**Data-Science-in-Biomedicine**](https://github.com/msmol2/Data-Science-in-Biomedicine) | MSc coursework, including a precision medicine project with RDKit | RDKit |
+| [**RDkit molecule comparison**](https://github.com/msmol2/Data-Science-in-Biomedicine) | MSc coursework, including a precision medicine project with RDKit | RDKit |
 | [**Citokine-Heatmap**](https://github.com/msmol2/Citokine-Heatmap) | Cytokine heatmap visualisation | — |
 
 ## Toolbox
