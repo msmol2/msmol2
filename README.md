@@ -1,4 +1,4 @@
-﻿# Hi, I'm Marta Solano 👋
+# Hi, I'm Marta Solano 👋
 
 R&D Scientist in preclinical immuno-oncology and MSc student in Engineering, Data Science in Omics Technologies and Biomedicine at IMC Krems.
 
@@ -14,6 +14,8 @@ My background is in the lab, first in neuroscience (in vivo electrophysiology sy
 | Project | What it does | Stack |
 |---|---|---|
 | [**repeat-expansions-trgt**](https://github.com/msmol2/repeat-expansions-trgt) | Detects and visualises pathogenic tandem repeat expansions (fragile X, Huntington, Friedreich ataxia, …) in PacBio PureTarget long-read data, including methylation and repeat interruptions | TRGT, Stranger, samtools, bcftools, bash |
+| [**atac-seq-crebbp-hdac-inhibitors**](https://github.com/msmol2/atac-seq-crebbp-hdac-inhibitors) | QC, Drosophila spike-in quantification and differential accessibility of ATAC-seq libraries from CREBBP-mutant vs parental cells treated with HDAC inhibitors | fastp, Bowtie2, MACS3, deepTools, edgeR |
+| [**germline-variant-calling-lct**](https://github.com/msmol2/germline-variant-calling-lct) | Short-read germline variant calling on a 1000 Genomes genome and genotyping of the lactase persistence SNP rs4988235 | fastp, BWA-MEM, samtools, GATK |
 | [**lipid-structure-annotation**](https://github.com/msmol2/lipid-structure-annotation) | Turns LC-MS lipid annotations into molecular structures (SMILES) and validates them against reported masses and with RDKit | Python, RDKit |
 | [**genomics-transcriptomics-analyses**](https://github.com/msmol2/genomics-transcriptomics-analyses) | Genome assembly and Burrows–Wheeler algorithms from scratch, and a single-cell RNA-seq workflow with batch integration and cell-type annotation | Python, scanpy, scvi-tools, CellTypist |
 | [**RDkit molecule comparison**](https://github.com/msmol2/Data-Science-in-Biomedicine) | MSc coursework, including a precision medicine project with RDKit | RDKit |
@@ -23,8 +25,8 @@ My background is in the lab, first in neuroscience (in vivo electrophysiology sy
 
 - **Languages:** Python · R · Bash
 - **Python:** pandas · scikit-learn · seaborn · matplotlib · RDKit
-- **R:** DESeq2 · clusterProfiler
-- **Genomics:** samtools · bcftools · TRGT · BWA · GATK · IGV
+- **R:** DESeq2 · edgeR · clusterProfiler
+- **Genomics:** samtools · bcftools · TRGT · BWA · GATK · IGV · Bowtie2 · MACS3 · deepTools
 - **Transcriptomics:** scanpy · scvi-tools · CellTypist · DESeq2
 - **Omics:** RNA-seq · ATAC-seq · whole-genome sequencing and variant calling · single-cell RNA-seq
 - **Statistics:** PCA · mixed-effects models · bootstrap · simulation
