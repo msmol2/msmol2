@@ -1,4 +1,4 @@
-# Hi, I'm Marta Solano 👋
+# Hi, I'm Marta 👋
 
 R&D Scientist in preclinical immuno-oncology and MSc student in Engineering, Data Science in Omics Technologies and Biomedicine at IMC Krems.
 
